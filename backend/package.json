@@ -1,0 +1,21 @@
+{
+  "name": "netlify-app",
+  "version": "1.0.0",
+  "description": "This is netlify-app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Netlify",
+    "App",
+    "JavaScript",
+    "JSKPATEL"
+  ],
+  "author": "JSKPATEL",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.2"
+  }
+}
